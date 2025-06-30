@@ -15,3 +15,4 @@ For text-based or audio-based similarity search, success will be measured using 
 - [ ] Evaluate search quality (MRR, precision@k)
 - [ ] Deploy search interface (CLI or Gradio)
 
+⚠️ Note: Audio samples and metadata are downloaded locally via the Freesound API and are excluded from version control. Run `fetch_and_store()` in `freesound_api.py` to populate the data folder.
