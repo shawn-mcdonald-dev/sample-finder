@@ -1,3 +1,11 @@
+'''
+This module will:
+- Authenticate with the Freesound API
+- Search for samples by text query or tag
+- Download audio files
+- Save associated metadata in a clean format
+'''
+
 import os
 import time
 import logging
