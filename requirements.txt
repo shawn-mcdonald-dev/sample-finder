@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+librosa
+numpy
+pandas
+scikit-learn
