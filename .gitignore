@@ -210,3 +210,9 @@ __marimo__/
 *.wav
 *.mp3
 *.ogg
+
+data/*
+!data/.gitkeep
+
+notebooks/__pycache__/
+audio/
