@@ -4,3 +4,4 @@ librosa
 numpy
 pandas
 scikit-learn
+dotenv
